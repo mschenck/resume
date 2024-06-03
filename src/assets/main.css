@@ -34,7 +34,7 @@ div#sidePane {
 }
 
 div#contact {
-  padding: 5px 15px;
+  padding: 5px 0px;
 }
 
 div#headShot {
@@ -66,13 +66,13 @@ div#mainPane h1, h2 {
 
 
 ul.experience {
-  padding: 0px 15px;
+  padding: 0px 0px;
   line-height: 18px;
   list-style-type: none;
 }
 
 ul.skills {
-  padding: 0px 15px;
+  padding: 0px 0px;
   line-height: 18px;
   list-style-type: none;
 }
