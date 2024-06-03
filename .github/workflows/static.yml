@@ -38,11 +38,11 @@ jobs:
           node-version: '22'
       - run: npm install
       - run: npm run build
+      - run: tar -cz resume.tgz dist/*
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
-          path: 'dist/*'
+          path: 'resume.tgz'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
