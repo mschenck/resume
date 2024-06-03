@@ -10,7 +10,6 @@ defineProps({
 </script>
 
 <template>
-  <!-- {{ data }} -->
   <Main :data=data />
 </template>
 
