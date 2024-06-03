@@ -8,7 +8,9 @@ metadata:
   tagline: Systems and software engineer, in the constant pursuit of implementing elegant and pragmatic solutions to business goals and challenges; through maintainable, automated, and insightful design.
 
 education:
-  degree: BSIT - RIT (rit.edu)
+  school: Rochester Institute of Technology
+  url: rit.edu
+  degree: BSIT
   entries:
   - Systems Engineering
   - Network Engineering
@@ -121,7 +123,7 @@ experience:
       duration:
         start: "October 2008"
         end: "December 2010"   
-    - name: MyPhotoAlbum.com Inc.
+    - name: MyPhotoAlbum
       url: MyPhotoAlbum.com
       title: Systems Administrator
       duration:

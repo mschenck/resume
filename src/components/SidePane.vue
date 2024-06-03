@@ -2,6 +2,7 @@
 import Bio from './Bio.vue'
 import Experience from './Experience.vue'
 import Skills from './Skills.vue'
+import Education from './Education.vue'
 
 defineProps({
   data: {
@@ -18,6 +19,8 @@ defineProps({
         <Experience :experience=data.experience />
 
         <Skills :skills=data.skills />
+
+        <Education :education=data.education />
     </div>
 
 </template>

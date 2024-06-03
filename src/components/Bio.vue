@@ -1,6 +1,4 @@
 <script setup>
-
-
 defineProps({
   metadata: {
     type: Object,

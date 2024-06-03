@@ -22,18 +22,6 @@ div {
   margin: 10px 0;
 }
 
-div#headShot {
-  padding: auto;
-  text-align: center;
-}
-
-img#headShot {
-  width: 180px;
-  height: 180px;
-  border-radius: 50%;
-  margin: 15px;
-}
-
 div#sidePane {
   width: 280px;
   padding: 0 10px;
@@ -44,6 +32,23 @@ div#sidePane {
   text-align: right;
   font-size: 12px;
 }
+
+div#contact {
+  padding: 5px 15px;
+}
+
+div#headShot {
+  padding: 0;
+  text-align: center;
+}
+
+img#headShot {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  margin: 0;
+}
+
 
 div#sidePane div {
   margin: 10px 0;
@@ -61,23 +66,19 @@ div#mainPane h1, h2 {
 
 
 ul.experience {
-  padding: 0px 35px;
+  padding: 0px 15px;
   line-height: 18px;
   list-style-type: none;
 }
 
 ul.skills {
-  padding: 0px 35px;
+  padding: 0px 15px;
   line-height: 18px;
   list-style-type: none;
 }
 
 span.listHighlight {
   margin: 0;
-}
-
-div#contact {
-  padding: 5px 35px;
 }
 
 div.duration {
