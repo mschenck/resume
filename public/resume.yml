@@ -1,0 +1,135 @@
+metadata:
+  name: Michael Schenck
+  email: mschenck@gmail.com
+  phone: 1-347-393-7614
+  photo: /Michael.png
+  github: github.com/mschenck
+  linkedin: linkedin.com/in/mschenck
+  tagline: Systems and software engineer, in the constant pursuit of implementing elegant and pragmatic solutions to business goals and challenges; through maintainable, automated, and insightful design.
+
+education:
+  degree: BSIT - RIT (rit.edu)
+  entries:
+  - Systems Engineering
+  - Network Engineering
+  - Information Security
+
+skills:
+  title: Skills
+  entries:
+  - domain: Languages
+    topics:
+    - Python
+    - Ruby
+    - Go
+    - C
+  - domain: Operating Systems
+    topics: 
+      - Linux
+      - Solaris
+      - OpenBSD
+      - MacOS
+  - domain: Tools/Platforms
+    topics: 
+    - Ansible
+    - Terraform
+    - Docker
+    - Kubernetes
+    - Kubebuilder
+  - domain: DB & Cloud
+    topics: 
+    - MySQL
+    - SQLite
+    - PostgreSQL
+    - Redis
+    - AWS
+    - GCP
+    - Github Actions
+    - ConcourseCI
+    - ArgoCD
+
+accomplishments:
+  title: Noteworthy Accomplishments
+  entries:
+  - Worked with several teams to manage an acquisition, reverse engineering undocumented code and recreated a working environment, updated documentation and established an on-boarding process
+  - Lead K8s (EKS) upgrade from 1.20 to 1.22 including updating a 3 year old ingress-nginx deploy and updating an in-house service to adhere to k8s API deprecations, followed by an after-action presentation
+  - Designed a next generation perimeter to overcome capacity planning, scaling and availability challenges in collaboration with network engineering and security
+  - Contributed both code and design to in-house ingress controller including refactoring of controllers to support horizontal scalability (kubebuilder in Golang)
+  - Established a mentoring plan with retrospectives to improve consistency, outcomes and visibility of mentoring efforts
+  - Designed and implemented Ikos' data oriented architecture backend for flexibility driving reduced time to value for product initiatives (in python)
+  - Implemented Ikos’ minimal yet pragmatic platform providing product and service build pipelined, continuous delivery releases with full stack monitoring and logging
+  - Implemented a learning, ownership and blameless culture through design docs, team based technology decisions, postmortems and SCRUM
+  - Owned Tumblr perimeter; partitioned perimeter into functional-pools tuned around traffic profile (connection lifetime, consumer type, cacheability, and bandwidth volume directionality), drove the seamless transition of active core-site during data center migration, and expansion of insight for both performance and DoS attack insight, and created a proxy-driven high-availability topology for Varnish caching tier, which is dynamically regenerated with Configrr::Haproxy
+  - Implemented lossless high volume metric trending system based on OpenTSDB, Collectd, and Fibr; a graph dashboard application based on Ruby’s Sinatra framework and Ohm library
+  - Contributor to many companion projects making up the rich Collins ecosystem, including Phil, Invisible-Touch, Fibr, and Configrr. Ranging from original development effort, optimization, expanding Rspec coverage, and in the case of Configrr - leading the effort to open-source.
+  - Application stack optimizations through application profiling, restructuring components into role-based pools, and replacing a proprietary solution with off-the-shelf hardware that best fit our workload.
+
+experience:
+  title: "Work History"
+  entries:
+    - name: SAP
+      url: sap.com
+      title: Staff Software Engineer
+      duration:
+        start: "April 2023"
+        end:
+    - name: Ngrok
+      url: ngrok.com
+      title: Sr Software Engineer
+      duration:
+        start: "August 2022"
+        end: "January 2023"
+    - name: Attentive
+      url: attentive.com
+      title: Sr Software Engineer
+      duration:
+        start: "June 2021"
+        end: "July 2022"
+    - name: Ikos
+      url: ikoshq.com
+      title: VP of Engineering
+      duration:
+        start: "April 2017"
+        end: "June 2021"
+    - name: Uber
+      url: uber.com
+      title: Senior Engineer
+      duration:
+        start: "February 2016"
+        end: "March 2017"
+    - name: Oscar
+      url: hioscar.com
+      title: Engineer
+      duration:
+        start: "March 2015"
+        end: "February 2016"
+    - name: Digital Ocean
+      url: digitalocean.com
+      title: Site Reliability Engineer
+      duration: 
+        start: "August 2014"
+        end: "February 2015"
+    - name: Tumblr
+      url: tumblr.com
+      title: Site Reliability Engineer
+      duration: 
+        start: "December 2010"
+        end: "June 2014"
+    - name: LimeWire
+      url: limewire.com
+      title: Senior Systems Administrator 
+      duration:
+        start: "October 2008"
+        end: "December 2010"   
+    - name: MyPhotoAlbum.com Inc.
+      url: MyPhotoAlbum.com
+      title: Systems Administrator
+      duration:
+        start: "June 2007"
+        end: "October 2008"
+    - name: Performance Technologies
+      url: pt.com
+      title: Networking Test Engineer
+      duration:
+        start: "May 2005"
+        end: "March 2007"
