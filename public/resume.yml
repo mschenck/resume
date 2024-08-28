@@ -75,12 +75,6 @@ experience:
       duration:
         start: "April 2023"
         end:
-    - name: Ngrok
-      url: ngrok.com
-      title: Sr Software Engineer
-      duration:
-        start: "August 2022"
-        end: "January 2023"
     - name: Attentive
       url: attentive.com
       title: Sr Software Engineer
@@ -105,12 +99,6 @@ experience:
       duration:
         start: "March 2015"
         end: "February 2016"
-    - name: Digital Ocean
-      url: digitalocean.com
-      title: Site Reliability Engineer
-      duration: 
-        start: "August 2014"
-        end: "February 2015"
     - name: Tumblr
       url: tumblr.com
       title: Site Reliability Engineer
